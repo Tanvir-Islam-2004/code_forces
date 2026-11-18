@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tanvirislamabir/code_forces/output/Books_on_a_Shelf'
+relocations:     []
+...
