@@ -6,7 +6,7 @@ int main()
     cin>>s>>t;
     int len=s.size();
     int len1=t.size();
-    cout<<len<<len1;
+    //cout<<len<<len1;
     int b=len;
     int flag=0;
     if(len==len1)
